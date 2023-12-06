@@ -1,5 +1,9 @@
-altair
-numpy
 pandas
-pydeck
 streamlit
+matplotlib.pyplot
+plotly.express
+plotly.graph_objects
+numpy
+statsmodels.api 
+statsmodels.tsa.seasonal
+statsmodels.graphics.tsaplots
